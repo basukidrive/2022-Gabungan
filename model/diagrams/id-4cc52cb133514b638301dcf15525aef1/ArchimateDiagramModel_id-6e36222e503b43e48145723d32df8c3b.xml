@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="1 Lingkup Data (Data Model)"
+    name="1 Enterprise Data Model"
     id="id-6e36222e503b43e48145723d32df8c3b">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

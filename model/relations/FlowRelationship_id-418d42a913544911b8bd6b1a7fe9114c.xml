@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Data SKEP Masterlist"
+    id="id-418d42a913544911b8bd6b1a7fe9114c">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-c05578b96f674a50832156a877da9ac4.xml#id-c05578b96f674a50832156a877da9ac4"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-4b0e4a2c9b6b49d0b5c7c15fd8e5b4ec.xml#id-4b0e4a2c9b6b49d0b5c7c15fd8e5b4ec"/>
+</archimate:FlowRelationship>

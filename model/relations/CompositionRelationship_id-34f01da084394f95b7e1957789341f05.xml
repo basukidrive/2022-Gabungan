@@ -1,12 +1,11 @@
-<archimate:FlowRelationship
+<archimate:CompositionRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Kirim Data Pengajuan"
-    id="id-7152f44e56c04b4789642e3c979fedcd">
+    id="id-34f01da084394f95b7e1957789341f05">
   <source
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-4b0e4a2c9b6b49d0b5c7c15fd8e5b4ec.xml#id-4b0e4a2c9b6b49d0b5c7c15fd8e5b4ec"/>
+      xsi:type="archimate:Grouping"
+      href="Grouping_id-e00dc36d84014d3ea72dd8f97bed828f.xml#id-e00dc36d84014d3ea72dd8f97bed828f"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-4040d17628484b01b12c3bfa0815b534.xml#id-4040d17628484b01b12c3bfa0815b534"/>
-</archimate:FlowRelationship>
+</archimate:CompositionRelationship>
