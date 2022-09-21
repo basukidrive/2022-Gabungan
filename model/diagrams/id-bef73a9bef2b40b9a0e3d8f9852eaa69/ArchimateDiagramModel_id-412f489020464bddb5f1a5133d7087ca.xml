@@ -161,7 +161,7 @@
         x="84"
         y="192"
         width="157"
-        height="325"/>
+        height="277"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-9d6f26fe469b4af88b365dd476276f78"
@@ -240,7 +240,7 @@
         x="288"
         y="192"
         width="152"
-        height="325"/>
+        height="277"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-ce9092037560409c85898a0645c94d23"
@@ -319,7 +319,7 @@
         x="492"
         y="192"
         width="157"
-        height="325"/>
+        height="277"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-335930edaf314942b6420f73b1c3e14b"
@@ -398,7 +398,7 @@
         x="692"
         y="192"
         width="161"
-        height="325"/>
+        height="277"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-e7428d26f8f3407aa3054ca74d38b245"
