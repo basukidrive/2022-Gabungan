@@ -482,7 +482,7 @@
         x="204"
         y="420"
         width="120"
-        height="55"/>
+        height="73"/>
     <archimateElement
         xsi:type="archimate:Outcome"
         href="Outcome_id-53ef972e74494c76917aa7081afb7ca7.xml#id-53ef972e74494c76917aa7081afb7ca7"/>
@@ -508,7 +508,7 @@
         x="60"
         y="588"
         width="120"
-        height="73"/>
+        height="97"/>
     <archimateElement
         xsi:type="archimate:Goal"
         href="Goal_id-d2bcfe29a91943278e365feece93b606.xml#id-d2bcfe29a91943278e365feece93b606"/>
@@ -521,7 +521,7 @@
         x="348"
         y="420"
         width="120"
-        height="55"/>
+        height="96"/>
     <archimateElement
         xsi:type="archimate:Goal"
         href="Goal_id-8460c266f839456a9c28e8a7ec199efc.xml#id-8460c266f839456a9c28e8a7ec199efc"/>
@@ -532,9 +532,9 @@
       targetConnections="id-ef6b43819f0242389d3e05eb0fc60ec3">
     <bounds
         x="348"
-        y="504"
+        y="540"
         width="120"
-        height="85"/>
+        height="97"/>
     <archimateElement
         xsi:type="archimate:Goal"
         href="Goal_id-6e9e651220344b16a80f4b8a7bab17a2.xml#id-6e9e651220344b16a80f4b8a7bab17a2"/>
